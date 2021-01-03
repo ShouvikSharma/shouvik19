@@ -6,6 +6,7 @@ Fun Fact: My name "Shouvik" means a magician in my native language, so for sure 
 <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>  
 
+<p style="text-indent: 40px">
 <a target="_blank" href="mailto:shouvik19@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
