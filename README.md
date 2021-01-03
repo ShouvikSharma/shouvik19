@@ -10,6 +10,8 @@ Fun Fact: My name "Shouvik" means a magician in my native language, so for sure 
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
+
+
 Thanks for taking interest in my profile.
 I will quickly run you through my profile.
 
