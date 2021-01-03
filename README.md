@@ -13,7 +13,7 @@ Fun Fact: My name "Shouvik" means a magician in my native language, so for sure 
 </p>
 
 <p style="text-indent: 4px">
-Thanks for taking interest in my profile.
+- Thanks for taking interest in my profile.
 I will quickly run you through it.
 
 I am fascinated by the data which exists in the world, and its ability to convince people to take decisions.
