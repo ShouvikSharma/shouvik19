@@ -9,5 +9,5 @@ I like to be anywhere where there is data, I can work as a data analyst, data sc
 🔭 I’m currently working as Data Scientist for [Daten Solutions](https://www.daten-solutions.com/).
 - 🌱 I’m currently learning Master of Data Science from [IIT Chicago](https://www.iit.edu/).
 - 👯 I’m looking to collaborate on Data Science projects with impactful problemen statements.
-- 📫 You could reach me via [Linkedin](https://www.linkedin.com/in/shouvik-sharma19/) and [Gmail](mailto:shouvik19@gmail.com) for collaboration.
+- 📫 You could reach me via [Linkedin](https://www.linkedin.com/in/shouvik-sharma19/) and [Gmail](gmail:shouvik19@gmail.com) for collaboration.
 - 😄 Pronouns: He/His/Him
