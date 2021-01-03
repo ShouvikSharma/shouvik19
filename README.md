@@ -9,11 +9,12 @@ Fun Fact: My name "Shouvik" means a magician in my native language, so for sure 
 <a target="_blank" href="mailto:shouvik19@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+</>
 
 
 
 Thanks for taking interest in my profile.
-I will quickly run you through my profile.
+I will quickly run you through it.
 
 I am fascinated by the data which exists in the world, and its ability to convince people to take decisions.
 I like to be anywhere where there is data, I can work as a data analyst, data scientist, business analyst etc. 
