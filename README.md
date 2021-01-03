@@ -12,5 +12,7 @@ I like to be anywhere where there is data, I can work as a data analyst, data sc
 - 📫 You could reach me via 
 <a target="_blank" href="https://www.linkedin.com/in/shouvik-sharma19/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>  and [Gmail](shouvik19@gmail.com) for collaboration.
+</a>  
+and [Gmail](shouvik19@gmail.com) for collaboration.
+
 - 😄 Pronouns: He/His/Him
