@@ -10,12 +10,13 @@ I like to be anywhere where there is data, I can work as a data analyst, data sc
 - 🌱 I’m currently learning Master of Data Science from [IIT Chicago](https://www.iit.edu/).
 - 👯 I’m looking to collaborate on Data Science projects with impactful problemen statements.
 - 📫 You could reach me via <a target="_blank" href="https://www.linkedin.com/in/shouvik-sharma19/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+- 😄 Pronouns: He/His/Him
+- Open to collaboration please reach me with the details given below :-
+<img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>  
 
 <a target="_blank" href="mailto:shouvik19@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-for collaboration.
 
-- 😄 Pronouns: He/His/Him
+
