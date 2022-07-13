@@ -18,7 +18,7 @@ I will quickly run you through it.
 I am fascinated by the data which exists in the world, and its ability to convince people to take decisions.
 I like to be anywhere where there is data, I can work as a data analyst, data scientist, business analyst etc. 
 
-🔭 I’m currently working as Data Scientist for [Daten Solutions](https://www.daten-solutions.com/).
+🔭 I’m currently working as Sr. Business Analyst for [Avant LLC](https://www.avant.com/).
 - 🌱 I’m currently learning Master of Data Science from [IIT Chicago](https://www.iit.edu/).
 - 👯 I’m looking to collaborate on Data Science projects with impactful problemen statements.
 - 😄 Pronouns: He/His/Him
