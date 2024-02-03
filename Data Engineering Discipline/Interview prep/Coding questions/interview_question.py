@@ -13,7 +13,7 @@ data = [("apple orange banana",),
 df = spark.createDataFrame(data, ["words"])
 
 # split the words into individual rows
-df_split = df.SelectExpr("explode(split(words, ' ')) as word")
+df_split = df.selectExpr("explode(split(words, ' ')) as word")
 
 # Sort the words in aplhabetical order
 df_sorted = df_split.orderBy("word")
