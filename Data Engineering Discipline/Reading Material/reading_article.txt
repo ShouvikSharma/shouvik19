@@ -1,1 +1,67 @@
 https://jkropko.github.io/surfing-the-data-pipeline/ch4.html
+
+
+
+Learning system design > learning to reverse a linked list.
+
+123 free resources to prepare for system design interviews:
+
+
+System Design Patterns:
+
+0. Horizontal vs Vertical Scaling: https://lnkd.in/dn8FZDee
+
+1. Message Queues: https://lnkd.in/dTbRpfc2
+
+2. Content Delivery Networks: https://lnkd.in/dyA-eHc2
+
+3. Database Indexes: https://lnkd.in/dzGFF2V5
+
+4. Caching: https://lnkd.in/dzguVmTT
+
+5. Microservices: https://lnkd.in/d6yK2dbr
+
+6. API Gateways: https://lnkd.in/dJeziMyn
+
+7. API Design: https://lnkd.in/d3p_dKEH
+
+
+Interview Problems:
+
+8. Design a Content Delivery Network: https://lnkd.in/d_hzk-xs
+
+9. Design a Distributed Job Scheduler: https://lnkd.in/dS9deu_8
+
+10. Design Instagram: https://lnkd.in/dyqr7f7r
+
+11. Design Autocomplete for Search Engines: https://lnkd.in/dqFUhEG2
+
+12. Design a Flight Booking System: https://lnkd.in/dBEPWzHR
+
+13. Design Google Maps: https://lnkd.in/d6ZYbMrh
+
+14. Design an Online Code Editor: https://lnkd.in/dyDFdjdh
+
+15. Design Slack: https://lnkd.in/dzAHBQV4
+
+
+Real World Big Tech Case Studies:
+
+16. How Figma Scaled 100x Their PostgreSQL Stack: https://lnkd.in/dPpN2n_C
+
+17. How Pinterest Scaled to 11 Million Users with Only 6 Engineers: https://lnkd.in/dsXbW8YV
+
+18. How Canva Supports 135 Million Monthly Simultaneous Users: https://lnkd.in/duSPasJX
+
+19. How LinkedIn Scales to 5 Million Profiles Reads / s: https://lnkd.in/dfiFkt_z
+
+20. How Instagram Scaled to 14M Users with Only 3 Engineers: https://lnkd.in/dbfHWn9Z
+
+21. How Uber Drives 40M Reads / Second with Integrated Cache: https://lnkd.in/dfR3wxQm
+
+22. How Discord Stores Trillions of Messages: https://lnkd.in/dGe3Jq_A
+
+23. Prime Video: Amazon's Secret to Streaming Video at Scale: https://lnkd.in/dm49aVhP
+
+
+123 couldn't fit in this post, check them all out in this GitHub repository: https://lnkd.in/dU6wFXkn

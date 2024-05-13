@@ -1,0 +1,20 @@
+article - https://blog.det.life/why-you-should-avoid-using-udf-in-pyspark-c57558af9d0a
+
+Why UDFs impact Pyspark Performance ?
+
+- Apache Spark operates on the Java Virtual Machine, when utilizing the pyspark API.
+the interaction is between JVM and Python.
+
+- When native SQL functions are utilized that are based of JVM, then they get executed in JVM itself, whereas if there is an execution of Python UDFs then it gets executed in Python Runtime.
+Each Dataframe gets serialized, transmitted to the Python Runtime, processed, and then returned to the JVM.
+
+- UDFs are executed row-wise, and each row is processed individually.
+This row-wise operation can lead to significant performance overhead, especially when dealing with large datasets.
+Pyspark's native sql functions are distributed and optimized while they are being utilized for transformations.
+
+- Spark provides inbuilt optimization, that enhances the execution plan of a spark job.
+UDFs limit the extent to which the optimizer can improve performance.
+
+- Non-deterministic behaviour
+
+- Resource intensiveneess
