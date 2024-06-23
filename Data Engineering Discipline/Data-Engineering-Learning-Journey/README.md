@@ -4,6 +4,7 @@
 | Date       | Topic                | Link                                    |
 |------------|----------------------|----------------------------------------|
 | 2024-06-22 | Customer who never order              | [pandas](https://leetcode.com/problems/customers-who-never-order/) |
+| 2024-06-23 | Department Top Three Salaries         | [pandas](https://leetcode.com/problems/department-top-three-salaries/) |
 
 # Daily SQL Databases concept
 
