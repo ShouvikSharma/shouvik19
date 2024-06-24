@@ -13,5 +13,9 @@
 # ETL Tools and Data Pipelines learning
 
 # Course learning
+| Date       | Topic                | Link                                    |
+|------------|----------------------|----------------------------------------|
+| 2024-06-23 | Data Engineering Zoomcamp              | [introduction Git Setup](https://leetcode.com/problems/customers-who-never-order/) |
+
 
 # Open source learning learning
