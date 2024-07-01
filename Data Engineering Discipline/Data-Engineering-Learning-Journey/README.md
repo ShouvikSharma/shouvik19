@@ -9,6 +9,7 @@
 | 2024-06-25 | Duplicate Emails        | [pandas](https://leetcode.com/problems/duplicate-emails/) |
 | 2024-06-25 | Duplicate Emails        | [pandas](https://leetcode.com/problems/duplicate-emails/) |
 | 2024-06-25 | Add Binary       | [pandas](https://leetcode.com/problems/add-binary/description/) |
+| 2024-06-30 | 3Sum Closest       | [pandas](https://leetcode.com/problems/3sum-closest/) |
 
 
 # Daily SQL Databases concept
