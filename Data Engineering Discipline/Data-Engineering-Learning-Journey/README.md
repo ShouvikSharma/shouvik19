@@ -25,3 +25,8 @@
 
 
 # Open source learning learning
+
+# Container tecnoglogies
+| Date       | Topic                | Link                                    |
+|------------|----------------------|----------------------------------------|
+| 2024-07-13 | Docker              | [Docker](https://www.linkedin.com/learning/learning-docker-17236240/what-is-docker?contextUrn=urn%3Ali%3AlyndaLearningPath%3A65eb4388345061d17bc1cba4&u=68632706) |
