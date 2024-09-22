@@ -18,7 +18,7 @@ def import_data() -> DataFrames:
     marketing_df = pd.read_csv(os.path.join(base_path, 'de_hw_marketing_data.csv'))
     sales_df = pd.read_csv(os.path.join(base_path, 'de_hw_sales_outreach_data.csv'))
     opportunity_df = pd.read_csv(os.path.join(base_path, 'de_hw_opportunity_data.csv'))
-    return DataFrames(contact_df, marketing_df, sales_df, opportunity_df)
+    return DataFrames(contact_df, marketing`_df, sales_df, opportunity_df)
 
 def merge_touchpoint_data(marketing_df: pd.DataFrame, sales_df: pd.DataFrame) -> pd.DataFrame:
     marketing_df['touchpoint_type'] = 'marketing'
