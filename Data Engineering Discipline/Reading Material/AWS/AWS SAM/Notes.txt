@@ -1,0 +1,8 @@
+-- Introduction of this application credits: https://www.coursera.org/learn/aws-serverless/lecture/VsVDS/demo-hands-on-with-aws-sam
+-- https://www.classcentral.com/u/4577876/saved
+
+-- Definition :-
+-- what AWS Serverless Application Model (AWS SAM)?
+
+-- In simple terms, AWS Serverless Application Model is an open-source application framework for building serverless applications using Infrastructure as a Code.
+-- 
