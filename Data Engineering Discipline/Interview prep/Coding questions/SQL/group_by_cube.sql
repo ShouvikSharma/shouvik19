@@ -1,3 +1,6 @@
+# https://www.db-fiddle.com/f/hp4rwFBHuM8d7VQ63RMxF2/0
+# https://www.linkedin.com/feed/update/urn:li:activity:6772324656826478592?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6772324656826478592%2C6773005210102173696%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%286773005210102173696%2Curn%3Ali%3Aactivity%3A6772324656826478592%29
+
 create table A (created_date date, city varchar, apps integer);
 insert into A (created_date,city,apps)
 values
