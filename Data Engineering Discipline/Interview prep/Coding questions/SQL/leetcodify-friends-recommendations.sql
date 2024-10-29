@@ -1,5 +1,6 @@
 
 # https://github.com/yennanliu/CS_basics/blob/master/leetcode_SQL/leetcodify-friends-recommendations.sql#L61C24-L75C94
+# https://leetcode.com/problems/leetcodify-friends-recommendations/
 
 -- Creating the Listens table
 CREATE TABLE Listens (
