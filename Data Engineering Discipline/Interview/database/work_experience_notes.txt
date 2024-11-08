@@ -1,0 +1,19 @@
+
+- Direct Mail Pipeline
+- CDE process
+- customer application
+
+
+
+- end to end full pipeline build
+
+1. Purpose of the project is to send mailers to potential customers who would come to our website and avail the offer.
+2. To identify potential customers or applicants we have to source this data through a data vendor like TU.
+- And to understand how we consume this data, I needed to understand the file structure of the TU datasets.
+- would it be one file or mutliple files?
+- what would be the primary key identifer for these tables?
+- how often does this data delivery refresh would it be once per campaign or would it be multiple times per campaign? SCD 1 or SCD 2.
+
+
+End use cases 
+- join with application data to mark source attribution.
