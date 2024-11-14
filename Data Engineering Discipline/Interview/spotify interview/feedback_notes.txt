@@ -1,0 +1,18 @@
+- Project explanation.
+1. Decent flow to the project where I was able to explain the basic idea of the project.
+2. Need to practice more on the project indepth decision making, and how to improve the overall project.
+3. Add more examples, apart from direct mail project,
+
+- Technical Verbal Questions.
+1. what is cap theorem?
+2. Complexity of reading through a linked list.
+3. Complexity of reading through a sorted array.
+3. What is collision in dictonary?
+4. What is Hashtable?
+5. Columnar storage vs row storage.
+
+
+- Technical live coding question.
+1. given a string, and maxconsecutivechar list.
+- get an output of the string that meets the maxconsecutivechar limit.
+
