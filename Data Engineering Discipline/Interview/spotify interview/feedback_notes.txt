@@ -5,6 +5,14 @@
 
 - Technical Verbal Questions.
 1. what is cap theorem?
+- Consistency
+- Availability
+- Partition Tolerance (network failure, hardware failure)
+
+CP - Postgres
+AP - MongoDB
+
+
 2. Complexity of reading through a linked list.
 3. Complexity of reading through a sorted array.
 3. What is collision in dictonary?
